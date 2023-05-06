@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**francciiisco/francciiisco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software developer who embodies patience, charisma, and continually expands
+my knowledge through hands-on experience. I love learning new content in sprints, 
+it's how i work best. I have a background in the food service and sales industry
+so I love the fast pace of working on new content.
 
-Here are some ideas to get you started:
+"I'm writing lines, making loops, never gonna stop.
+Got the skills, got the drive, I'm a coding juggernaut." ~ Francisco Cardoso
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on trying out new tech stacks.
+- 🌱 I’m currently attempting to learn angular.
+- 👯 I’m looking to collaborate on anything I can get my hands on.
+- 💬 Ask me about the Dallas Mavericks, Dallas Cowboys or Texas Rangers.
+- ⚡ Fun fact: My favorite pokemon is Elekid and I firmly believe 
+              Demon Slayer is the Best Anime out there.
