@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 I am a software developer who embodies patience, charisma, and continually expands
-my knowledge through hands-on experience. I love learning new content in sprints, 
-it's how i work best. I have a background in the food service and sales industry
-so I love the fast pace of working on new content.
+my knowledge through hands-on experience. I have a background in the food service 
+and sales industry so I love the fast pace of working on new content.
 
 "I'm writing lines, making loops, never gonna stop.
 Got the skills, got the drive, I'm a coding juggernaut." ~ Francisco Cardoso
